@@ -1,0 +1,38 @@
+class Patient (){}
+class Doctor (){}
+
+
+Factory{
+  create(String role){
+    if(role == "patient") return new Patient()
+    if(role == "doctor") return new Docto()
+  }
+}
+
+
+
+
+{
+    username:"dodo",
+    role:"doctor",
+    image:"p.jpg"
+    
+}
+
+class Auth{
+
+    signup(req,res){
+
+        factory = new Factory()
+        user = factory.create(req.role)
+        user = req;
+        user.save()  
+        
+
+        user.save()
+
+    }
+}
+
+
+post /History/7867765/allegry
