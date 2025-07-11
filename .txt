@@ -33,6 +33,3 @@ class Auth{
 
     }
 }
-
-
-post /History/7867765/allegry

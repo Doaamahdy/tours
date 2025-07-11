@@ -161,12 +161,12 @@ EMAIL_PASSWORD=your-password
 
 4. Run the server:
 
-## 🚀 Development Mode
+## 🛠  Development Mode
 ```bash
 npm run start:dev
 ```
 
-## 🚀 Production Mode
+## 🏭 Production Mode
 ```bash
 npm run start:prod
 ```
@@ -176,5 +176,4 @@ npm run start:prod
 ## 🧑 Author
 
 **Doaa Mahdy**  
-📚 FCAI - Cairo University  
-🔗 [GitHub](https://github.com/your-username)
+🔗 [GitHub](https://github.com/Doaamahdy)
