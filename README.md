@@ -173,7 +173,7 @@ npm run start:prod
 
 ---
 
-## 🧑 Author
+##  Author
 
 **Doaa Mahdy**  
 🔗 [GitHub](https://github.com/Doaamahdy)
