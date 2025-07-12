@@ -1,4 +1,4 @@
-# 🌍 Travel Booking API (Node.js + MongoDB)
+# 🌍 Tours API (Node.js + MongoDB)
 
 This is a **full-featured RESTful API** for a travel booking platform, built using **Node.js**, **Express**, **MongoDB**, and **Mongoose**.
 
